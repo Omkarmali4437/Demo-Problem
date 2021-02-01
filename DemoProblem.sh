@@ -6,4 +6,5 @@ number1=10;
 number2=5;
 sum=$((number1+number2))
 echo $sum
-
+subtract=$((number1-number2))
+echo $subtract
